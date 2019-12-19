@@ -1,0 +1,7 @@
+md5: 7931956641f1dfccb9baa6325d52c1a7
+outs:
+- md5: 4c0f4dbfccf8223054ee25dd71efc7d1
+  path: 140214.jpg
+  cache: true
+  metric: false
+  persist: false
