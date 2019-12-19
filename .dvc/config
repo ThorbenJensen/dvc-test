@@ -1,0 +1,4 @@
+['remote "gs-dvc-test"']
+url = gs://test-dvc
+[core]
+remote = gs-dvc-test
